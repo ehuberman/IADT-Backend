@@ -1,4 +1,4 @@
-# IADT Backend (POC)
+# IADT Backend
 
 FastAPI backend for generating AI-driven soccer tactics using real-world player data and dynamic prompt construction.
 
